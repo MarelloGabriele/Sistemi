@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\bin\Debug\LabGaraNuoto.exe.config
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\bin\Debug\LabGaraNuoto.exe
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\bin\Debug\LabGaraNuoto.pdb
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.FrmMain.resources
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.Properties.Resources.resources
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.exe
+C:\Users\Admin\Desktop\4B INF\LabGaraNuoto\obj\Debug\LabGaraNuoto.pdb
