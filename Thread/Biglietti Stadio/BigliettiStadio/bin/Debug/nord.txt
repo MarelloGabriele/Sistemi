@@ -1,0 +1,1213 @@
+Fine vendita biglietti: 30/03/2022 22:20:19
+Cliente: 55 ha acquistato un biglietto in posizione: 25, 54
+Cliente: 56 ha acquistato un biglietto in posizione: 23, 78
+Cliente: 33 ha acquistato un biglietto in posizione: 62, 11, 60, 91
+Cliente: 19 ha acquistato un biglietto in posizione: 4, 100, 63
+Cliente: 69 ha acquistato un biglietto in posizione: 38, 29, 83, 36
+Cliente: 45 ha acquistato un biglietto in posizione: 45, 39
+Cliente: 29 ha acquistato un biglietto in posizione: 51, 61, 15
+Cliente: 65 ha acquistato un biglietto in posizione: 90, 73, 40, 43
+
+
+Fine vendita biglietti: 30/03/2022 22:24:05
+
+Cliente: 42 ha acquistato un biglietto in posizione: 24, 80, 10, 1
+Cliente: 9 ha acquistato un biglietto in posizione: 62, 3, 98, 18
+
+
+Fine vendita biglietti: 30/03/2022 22:24:06
+
+Cliente: 42 ha acquistato un biglietto in posizione: 24, 80, 10, 1
+Cliente: 9 ha acquistato un biglietto in posizione: 62, 3, 98, 18
+
+
+Fine vendita biglietti: 30/03/2022 22:29:45
+
+Cliente: 40 ha acquistato un biglietto in posizione: 292, 348, 141, 836
+Cliente: 37 ha acquistato un biglietto in posizione: 449, 198
+Cliente: 15 ha acquistato un biglietto in posizione: 627, 87
+
+
+Fine vendita biglietti: 30/03/2022 22:29:50
+
+Cliente: 40 ha acquistato un biglietto in posizione: 292, 348, 141, 836
+Cliente: 37 ha acquistato un biglietto in posizione: 449, 198
+Cliente: 15 ha acquistato un biglietto in posizione: 627, 87
+Cliente: 44 ha acquistato un biglietto in posizione: 973, 681
+Cliente: 30 ha acquistato un biglietto in posizione: 58, 893, 531
+Cliente: 8 ha acquistato un biglietto in posizione: 992, 84
+Cliente: 60 ha acquistato un biglietto in posizione: 413
+
+
+Fine vendita biglietti: 30/03/2022 22:31:47
+
+Cliente: 18 ha acquistato un biglietto in posizione: 93, 42, 45, 95, 82
+Cliente: 37 ha acquistato un biglietto in posizione: 7, 2, 33
+Cliente: 2 ha acquistato un biglietto in posizione: 27, 10, 22, 13, 51
+Cliente: 14 ha acquistato un biglietto in posizione: 83, 71
+
+
+Fine vendita biglietti: 30/03/2022 22:31:48
+
+Cliente: 18 ha acquistato un biglietto in posizione: 93, 42, 45, 95, 82
+Cliente: 37 ha acquistato un biglietto in posizione: 7, 2, 33
+Cliente: 2 ha acquistato un biglietto in posizione: 27, 10, 22, 13, 51
+Cliente: 14 ha acquistato un biglietto in posizione: 83, 71
+
+
+Fine vendita biglietti: 30/03/2022 22:36:36
+
+Cliente: 48 ha acquistato un biglietto in posizione: 2, 22, 19
+Cliente: 39 ha acquistato un biglietto in posizione: 9, 60, 100
+Cliente: 58 ha acquistato un biglietto in posizione: 71, 50, 48
+
+
+Fine vendita biglietti: 30/03/2022 22:36:37
+
+Cliente: 48 ha acquistato un biglietto in posizione: 2, 22, 19
+Cliente: 39 ha acquistato un biglietto in posizione: 9, 60, 100
+Cliente: 58 ha acquistato un biglietto in posizione: 71, 50, 48
+
+
+Fine vendita biglietti: 30/03/2022 22:37:00
+
+Cliente: 37 ha acquistato un biglietto in posizione: 31, 1
+Cliente: 20 ha acquistato un biglietto in posizione: 27, 65, 16, 18, 89
+Cliente: 10 ha acquistato un biglietto in posizione: 46
+
+
+Fine vendita biglietti: 30/03/2022 22:37:01
+
+Cliente: 37 ha acquistato un biglietto in posizione: 31, 1
+Cliente: 20 ha acquistato un biglietto in posizione: 27, 65, 16, 18, 89
+Cliente: 10 ha acquistato un biglietto in posizione: 46
+
+
+Fine vendita biglietti: 30/03/2022 22:37:14
+
+Cliente: 57 ha acquistato un biglietto in posizione: 10, 34, 57
+Cliente: 15 ha acquistato un biglietto in posizione: 72, 42, 43
+
+
+Fine vendita biglietti: 30/03/2022 22:37:28
+
+Cliente: 8 ha acquistato un biglietto in posizione: 91
+Cliente: 7 ha acquistato un biglietto in posizione: 47
+Cliente: 3 ha acquistato un biglietto in posizione: 79, 20
+Cliente: 2 ha acquistato un biglietto in posizione: 8
+
+
+Fine vendita biglietti: 31/03/2022 10:05:18
+
+Cliente: 42 ha acquistato un biglietto in posizione: 66
+Cliente: 38 ha acquistato un biglietto in posizione: 8, 91, 33
+Cliente: 44 ha acquistato un biglietto in posizione: 15, 80, 14, 47, 55
+Cliente: 22 ha acquistato un biglietto in posizione: 53, 1, 11, 25
+Cliente: 9 ha acquistato un biglietto in posizione: 96
+Cliente: 52 ha acquistato un biglietto in posizione: 37, 58, 48
+Cliente: 67 ha acquistato un biglietto in posizione: 94, 73
+Cliente: 59 ha acquistato un biglietto in posizione: 87, 62, 52
+Cliente: 13 ha acquistato un biglietto in posizione: 61, 95
+Cliente: 30 ha acquistato un biglietto in posizione: 88, 49, 3, 40
+Cliente: 64 ha acquistato un biglietto in posizione: 68, 13, 26, 32
+Cliente: 61 ha acquistato un biglietto in posizione: 45, 77
+Cliente: 28 ha acquistato un biglietto in posizione: 51, 43
+Cliente: 26 ha acquistato un biglietto in posizione: 31
+
+
+Fine vendita biglietti: 31/03/2022 10:07:35
+
+Cliente: 21 ha acquistato un biglietto in posizione: 73, 12, 75
+Cliente: 23 ha acquistato un biglietto in posizione: 76, 62
+Cliente: 22 ha acquistato un biglietto in posizione: 88, 58
+Cliente: 37 ha acquistato un biglietto in posizione: 16, 37
+
+
+Fine vendita biglietti: 31/03/2022 10:44:01
+
+Cliente: 942 ha acquistato un biglietto in posizione: 368, 123, 363
+Cliente: 463 ha acquistato un biglietto in posizione: 125, 208, 251
+Cliente: 852 ha acquistato un biglietto in posizione: 351
+Cliente: 898 ha acquistato un biglietto in posizione: 120, 464, 43, 428
+Cliente: 112 ha acquistato un biglietto in posizione: 483, 336, 324
+Cliente: 724 ha acquistato un biglietto in posizione: 253, 488
+Cliente: 893 ha acquistato un biglietto in posizione: 352, 151, 164, 360
+Cliente: 30 ha acquistato un biglietto in posizione: 110
+Cliente: 757 ha acquistato un biglietto in posizione: 256, 14, 399, 58
+Cliente: 207 ha acquistato un biglietto in posizione: 143, 465, 37, 171, 112
+Cliente: 53 ha acquistato un biglietto in posizione: 30
+Cliente: 501 ha acquistato un biglietto in posizione: 194, 137
+Cliente: 950 ha acquistato un biglietto in posizione: 411
+Cliente: 764 ha acquistato un biglietto in posizione: 367
+Cliente: 922 ha acquistato un biglietto in posizione: 9, 395, 82
+Cliente: 46 ha acquistato un biglietto in posizione: 496
+Cliente: 683 ha acquistato un biglietto in posizione: 215, 184
+Cliente: 342 ha acquistato un biglietto in posizione: 88
+Cliente: 11 ha acquistato un biglietto in posizione: 91, 90, 403
+Cliente: 246 ha acquistato un biglietto in posizione: 315, 66
+Cliente: 670 ha acquistato un biglietto in posizione: 279
+Cliente: 304 ha acquistato un biglietto in posizione: 459
+Cliente: 866 ha acquistato un biglietto in posizione: 382, 121, 378
+Cliente: 327 ha acquistato un biglietto in posizione: 364, 87
+Cliente: 867 ha acquistato un biglietto in posizione: 307, 366, 182, 497
+Cliente: 980 ha acquistato un biglietto in posizione: 166
+Cliente: 462 ha acquistato un biglietto in posizione: 62
+Cliente: 421 ha acquistato un biglietto in posizione: 94
+Cliente: 567 ha acquistato un biglietto in posizione: 413
+Cliente: 454 ha acquistato un biglietto in posizione: 261, 385, 308
+Cliente: 700 ha acquistato un biglietto in posizione: 303
+Cliente: 684 ha acquistato un biglietto in posizione: 463, 286, 477
+Cliente: 443 ha acquistato un biglietto in posizione: 412, 122
+Cliente: 119 ha acquistato un biglietto in posizione: 127
+Cliente: 537 ha acquistato un biglietto in posizione: 47, 170, 231, 176, 89
+Cliente: 243 ha acquistato un biglietto in posizione: 484, 455, 375, 406
+Cliente: 962 ha acquistato un biglietto in posizione: 59, 310, 148, 24
+Cliente: 250 ha acquistato un biglietto in posizione: 135, 219, 481, 247, 111
+Cliente: 228 ha acquistato un biglietto in posizione: 347, 173
+Cliente: 48 ha acquistato un biglietto in posizione: 142, 157, 362
+Cliente: 550 ha acquistato un biglietto in posizione: 269, 76, 72
+Cliente: 885 ha acquistato un biglietto in posizione: 153, 212, 338, 379
+Cliente: 803 ha acquistato un biglietto in posizione: 175, 103
+Cliente: 613 ha acquistato un biglietto in posizione: 435
+Cliente: 240 ha acquistato un biglietto in posizione: 117, 53
+Cliente: 417 ha acquistato un biglietto in posizione: 159, 118
+Cliente: 559 ha acquistato un biglietto in posizione: 210, 139, 99
+Cliente: 410 ha acquistato un biglietto in posizione: 193
+Cliente: 244 ha acquistato un biglietto in posizione: 480
+Cliente: 348 ha acquistato un biglietto in posizione: 482
+Cliente: 761 ha acquistato un biglietto in posizione: 311, 246, 300
+Cliente: 266 ha acquistato un biglietto in posizione: 201
+
+
+Fine vendita biglietti: 31/03/2022 10:54:32
+
+Cliente: 5 ha acquistato un biglietto in posizione: 17
+Cliente: 46 ha acquistato un biglietto in posizione: 78, 25, 23, 33
+Cliente: 48 ha acquistato un biglietto in posizione: 43, 89
+Cliente: 41 ha acquistato un biglietto in posizione: 60, 97
+Cliente: 64 ha acquistato un biglietto in posizione: 44, 9
+Cliente: 68 ha acquistato un biglietto in posizione: 47, 96, 29, 10
+Cliente: 7 ha acquistato un biglietto in posizione: 81, 64, 7, 52
+Cliente: 60 ha acquistato un biglietto in posizione: 83
+Cliente: 38 ha acquistato un biglietto in posizione: 22, 75, 50
+Cliente: 21 ha acquistato un biglietto in posizione: 82, 58
+Cliente: 51 ha acquistato un biglietto in posizione: 73
+Cliente: 14 ha acquistato un biglietto in posizione: 38, 93, 37
+
+
+Fine vendita biglietti: 31/03/2022 11:17:55
+
+Cliente: 39 ha acquistato un biglietto in posizione: 24, 36, 96, 27
+Cliente: 1 ha acquistato un biglietto in posizione: 74, 6, 22, 33
+Cliente: 28 ha acquistato un biglietto in posizione: 7
+Cliente: 47 ha acquistato un biglietto in posizione: 88, 59
+Cliente: 69 ha acquistato un biglietto in posizione: 8
+Cliente: 9 ha acquistato un biglietto in posizione: 52
+Cliente: 24 ha acquistato un biglietto in posizione: 79
+Cliente: 20 ha acquistato un biglietto in posizione: 37
+Cliente: 8 ha acquistato un biglietto in posizione: 46
+Cliente: 16 ha acquistato un biglietto in posizione: 34, 48, 90, 44, 89
+Cliente: 54 ha acquistato un biglietto in posizione: 30, 39
+Cliente: 11 ha acquistato un biglietto in posizione: 56, 76
+
+
+Fine vendita biglietti: 31/03/2022 11:24:56
+
+Cliente: 254 ha acquistato un biglietto in posizione: 1555
+Cliente: 27 ha acquistato un biglietto in posizione: 107, 1891, 1467
+Cliente: 763 ha acquistato un biglietto in posizione: 1958, 514, 1405
+Cliente: 595 ha acquistato un biglietto in posizione: 1032, 1694, 1085
+Cliente: 631 ha acquistato un biglietto in posizione: 1057, 636, 1714
+Cliente: 330 ha acquistato un biglietto in posizione: 417
+Cliente: 886 ha acquistato un biglietto in posizione: 1247, 827
+Cliente: 675 ha acquistato un biglietto in posizione: 1887, 187
+Cliente: 878 ha acquistato un biglietto in posizione: 163, 1126
+Cliente: 133 ha acquistato un biglietto in posizione: 1226, 1271, 1964
+Cliente: 398 ha acquistato un biglietto in posizione: 1863, 1812, 588
+Cliente: 228 ha acquistato un biglietto in posizione: 780
+Cliente: 625 ha acquistato un biglietto in posizione: 906, 266, 1469, 1615
+Cliente: 784 ha acquistato un biglietto in posizione: 931, 311
+Cliente: 366 ha acquistato un biglietto in posizione: 451
+Cliente: 933 ha acquistato un biglietto in posizione: 1461
+Cliente: 252 ha acquistato un biglietto in posizione: 284, 231, 1
+Cliente: 653 ha acquistato un biglietto in posizione: 1128, 137, 1051, 222, 899
+Cliente: 174 ha acquistato un biglietto in posizione: 1472, 858, 465
+Cliente: 522 ha acquistato un biglietto in posizione: 1674, 1568, 765
+Cliente: 188 ha acquistato un biglietto in posizione: 1216, 1044, 80
+Cliente: 286 ha acquistato un biglietto in posizione: 529, 543, 649, 548
+Cliente: 164 ha acquistato un biglietto in posizione: 1379, 1594
+Cliente: 260 ha acquistato un biglietto in posizione: 1239, 1186, 419, 1941
+Cliente: 199 ha acquistato un biglietto in posizione: 1279, 534
+Cliente: 276 ha acquistato un biglietto in posizione: 493
+Cliente: 126 ha acquistato un biglietto in posizione: 715, 1558, 624
+Cliente: 365 ha acquistato un biglietto in posizione: 818, 1021, 660, 796
+Cliente: 970 ha acquistato un biglietto in posizione: 1913, 725, 837, 120, 839
+Cliente: 704 ha acquistato un biglietto in posizione: 1264, 1830, 1485
+Cliente: 475 ha acquistato un biglietto in posizione: 817
+Cliente: 906 ha acquistato un biglietto in posizione: 907, 1571
+Cliente: 327 ha acquistato un biglietto in posizione: 1299
+Cliente: 578 ha acquistato un biglietto in posizione: 578, 1940
+Cliente: 229 ha acquistato un biglietto in posizione: 598, 467
+Cliente: 817 ha acquistato un biglietto in posizione: 1838
+Cliente: 238 ha acquistato un biglietto in posizione: 1542
+Cliente: 918 ha acquistato un biglietto in posizione: 1678, 400, 1984
+Cliente: 731 ha acquistato un biglietto in posizione: 1870
+Cliente: 986 ha acquistato un biglietto in posizione: 974, 167, 728, 869
+Cliente: 246 ha acquistato un biglietto in posizione: 1305, 459, 991, 299
+Cliente: 586 ha acquistato un biglietto in posizione: 1764, 1059
+Cliente: 19 ha acquistato un biglietto in posizione: 30, 913, 816, 1331
+Cliente: 148 ha acquistato un biglietto in posizione: 251
+Cliente: 714 ha acquistato un biglietto in posizione: 655, 1570, 982
+Cliente: 69 ha acquistato un biglietto in posizione: 460, 1649
+Cliente: 245 ha acquistato un biglietto in posizione: 326, 589
+Cliente: 473 ha acquistato un biglietto in posizione: 1926
+Cliente: 52 ha acquistato un biglietto in posizione: 1766, 678, 859
+Cliente: 527 ha acquistato un biglietto in posizione: 531, 1430, 1112
+Cliente: 992 ha acquistato un biglietto in posizione: 1978, 773
+Cliente: 721 ha acquistato un biglietto in posizione: 1253, 1072, 291, 1750, 927
+Cliente: 310 ha acquistato un biglietto in posizione: 986, 168, 1659
+Cliente: 123 ha acquistato un biglietto in posizione: 724
+Cliente: 1 ha acquistato un biglietto in posizione: 476, 320, 1779
+Cliente: 725 ha acquistato un biglietto in posizione: 377
+Cliente: 837 ha acquistato un biglietto in posizione: 374
+Cliente: 424 ha acquistato un biglietto in posizione: 429, 364
+Cliente: 660 ha acquistato un biglietto in posizione: 752, 1356, 1616, 902
+Cliente: 10 ha acquistato un biglietto in posizione: 833, 1510, 1155, 1522
+Cliente: 949 ha acquistato un biglietto in posizione: 1199
+Cliente: 647 ha acquistato un biglietto in posizione: 1340, 1263, 1834, 865
+Cliente: 938 ha acquistato un biglietto in posizione: 1554, 633
+Cliente: 740 ha acquistato un biglietto in posizione: 1693, 72
+Cliente: 853 ha acquistato un biglietto in posizione: 1068, 1336
+Cliente: 593 ha acquistato un biglietto in posizione: 668
+Cliente: 334 ha acquistato un biglietto in posizione: 1541, 955, 1961, 47
+Cliente: 23 ha acquistato un biglietto in posizione: 1087
+Cliente: 104 ha acquistato un biglietto in posizione: 943
+Cliente: 667 ha acquistato un biglietto in posizione: 593, 1547, 924, 1817
+Cliente: 9 ha acquistato un biglietto in posizione: 1096
+Cliente: 170 ha acquistato un biglietto in posizione: 681
+Cliente: 972 ha acquistato un biglietto in posizione: 1676, 1893, 894, 258, 1012
+Cliente: 80 ha acquistato un biglietto in posizione: 1438, 1680
+Cliente: 430 ha acquistato un biglietto in posizione: 521, 1521, 200
+Cliente: 373 ha acquistato un biglietto in posizione: 436, 784, 1232
+Cliente: 741 ha acquistato un biglietto in posizione: 1375, 921, 1748
+Cliente: 331 ha acquistato un biglietto in posizione: 325, 473
+Cliente: 613 ha acquistato un biglietto in posizione: 662, 335, 961
+Cliente: 887 ha acquistato un biglietto in posizione: 1098, 1325
+Cliente: 255 ha acquistato un biglietto in posizione: 887, 1781
+Cliente: 206 ha acquistato un biglietto in posizione: 1526, 617, 1297, 1628, 1925
+Cliente: 929 ha acquistato un biglietto in posizione: 1478, 905, 1436, 1140
+Cliente: 259 ha acquistato un biglietto in posizione: 684
+Cliente: 612 ha acquistato un biglietto in posizione: 1041, 793
+Cliente: 237 ha acquistato un biglietto in posizione: 1040
+Cliente: 885 ha acquistato un biglietto in posizione: 1074, 280
+Cliente: 353 ha acquistato un biglietto in posizione: 1181
+Cliente: 770 ha acquistato un biglietto in posizione: 484, 1348, 959
+Cliente: 486 ha acquistato un biglietto in posizione: 1638, 286, 146, 1643
+Cliente: 555 ha acquistato un biglietto in posizione: 1152
+Cliente: 138 ha acquistato un biglietto in posizione: 1663, 468, 1962
+Cliente: 634 ha acquistato un biglietto in posizione: 1791, 658
+Cliente: 195 ha acquistato un biglietto in posizione: 1094, 1144, 1664, 507, 176
+Cliente: 140 ha acquistato un biglietto in posizione: 808, 1835, 1537
+Cliente: 748 ha acquistato un biglietto in posizione: 1675, 988, 1192, 1079
+Cliente: 141 ha acquistato un biglietto in posizione: 25, 643, 557
+Cliente: 91 ha acquistato un biglietto in posizione: 1780, 1351, 1229, 1131, 1006
+Cliente: 528 ha acquistato un biglietto in posizione: 1496, 328, 1701
+Cliente: 455 ha acquistato un biglietto in posizione: 748
+Cliente: 176 ha acquistato un biglietto in posizione: 564, 581, 1685
+Cliente: 812 ha acquistato un biglietto in posizione: 196, 1417, 540
+Cliente: 529 ha acquistato un biglietto in posizione: 1237
+Cliente: 925 ha acquistato un biglietto in posizione: 1787, 749, 197
+Cliente: 132 ha acquistato un biglietto in posizione: 23, 236, 1101, 4
+Cliente: 767 ha acquistato un biglietto in posizione: 306, 1161
+Cliente: 239 ha acquistato un biglietto in posizione: 1492, 1784
+Cliente: 192 ha acquistato un biglietto in posizione: 91
+Cliente: 871 ha acquistato un biglietto in posizione: 60, 1956
+Cliente: 147 ha acquistato un biglietto in posizione: 1924, 1400
+Cliente: 49 ha acquistato un biglietto in posizione: 48, 24, 1353
+Cliente: 146 ha acquistato un biglietto in posizione: 1549, 1509, 86, 762
+Cliente: 719 ha acquistato un biglietto in posizione: 347, 1257
+Cliente: 359 ha acquistato un biglietto in posizione: 1008, 391, 1176, 1574
+Cliente: 981 ha acquistato un biglietto in posizione: 147, 1904
+Cliente: 221 ha acquistato un biglietto in posizione: 1981, 1499
+Cliente: 728 ha acquistato un biglietto in posizione: 1326, 1306, 511, 1130
+Cliente: 989 ha acquistato un biglietto in posizione: 711, 227
+Cliente: 815 ha acquistato un biglietto in posizione: 402, 1579, 676, 1705, 731
+Cliente: 42 ha acquistato un biglietto in posizione: 1767, 409
+Cliente: 244 ha acquistato un biglietto in posizione: 1480, 510, 621
+Cliente: 431 ha acquistato un biglietto in posizione: 35
+Cliente: 806 ha acquistato un biglietto in posizione: 29
+Cliente: 568 ha acquistato un biglietto in posizione: 1413, 303
+Cliente: 135 ha acquistato un biglietto in posizione: 71
+Cliente: 982 ha acquistato un biglietto in posizione: 1875, 1104, 1596, 340, 694
+Cliente: 492 ha acquistato un biglietto in posizione: 677, 1514, 1447, 1278
+Cliente: 339 ha acquistato un biglietto in posizione: 155, 1122, 1153
+Cliente: 609 ha acquistato un biglietto in posizione: 1823
+Cliente: 535 ha acquistato un biglietto in posizione: 1911, 201, 1723
+Cliente: 217 ha acquistato un biglietto in posizione: 1825
+Cliente: 444 ha acquistato un biglietto in posizione: 1209
+Cliente: 166 ha acquistato un biglietto in posizione: 739, 1344, 1202, 1034
+Cliente: 66 ha acquistato un biglietto in posizione: 293
+Cliente: 308 ha acquistato un biglietto in posizione: 95
+Cliente: 658 ha acquistato un biglietto in posizione: 1619, 92, 889
+Cliente: 153 ha acquistato un biglietto in posizione: 1849, 1903
+Cliente: 451 ha acquistato un biglietto in posizione: 697, 157, 771
+Cliente: 156 ha acquistato un biglietto in posizione: 207, 829, 686, 549
+Cliente: 519 ha acquistato un biglietto in posizione: 1852, 10, 641
+Cliente: 951 ha acquistato un biglietto in posizione: 1420, 1824, 1827, 691
+Cliente: 759 ha acquistato un biglietto in posizione: 963, 1712, 118
+Cliente: 769 ha acquistato un biglietto in posizione: 1952
+Cliente: 184 ha acquistato un biglietto in posizione: 1013, 871
+Cliente: 348 ha acquistato un biglietto in posizione: 520, 1715
+Cliente: 512 ha acquistato un biglietto in posizione: 648
+Cliente: 846 ha acquistato un biglietto in posizione: 1386
+Cliente: 948 ha acquistato un biglietto in posizione: 1393, 1054, 546, 941
+Cliente: 601 ha acquistato un biglietto in posizione: 1753, 327, 519
+Cliente: 427 ha acquistato un biglietto in posizione: 736, 1563, 1069, 1493, 722
+Cliente: 321 ha acquistato un biglietto in posizione: 1739, 426, 1206
+Cliente: 636 ha acquistato un biglietto in posizione: 250, 1762, 1684
+Cliente: 436 ha acquistato un biglietto in posizione: 536, 1860, 1629
+Cliente: 335 ha acquistato un biglietto in posizione: 1376, 457, 34
+Cliente: 549 ha acquistato un biglietto in posizione: 221, 2000, 1445, 233
+Cliente: 536 ha acquistato un biglietto in posizione: 990, 1796, 1408
+Cliente: 942 ha acquistato un biglietto in posizione: 822
+Cliente: 710 ha acquistato un biglietto in posizione: 350, 635, 1593
+Cliente: 118 ha acquistato un biglietto in posizione: 1198, 1249, 312, 637
+Cliente: 727 ha acquistato un biglietto in posizione: 246, 1267, 994, 1107, 650
+Cliente: 766 ha acquistato un biglietto in posizione: 421, 804, 1138, 1689
+Cliente: 732 ha acquistato un biglietto in posizione: 254, 1687, 142
+Cliente: 711 ha acquistato un biglietto in posizione: 814, 1606, 580, 256, 214
+Cliente: 792 ha acquistato un biglietto in posizione: 1342, 1157
+Cliente: 884 ha acquistato un biglietto in posizione: 253, 1741, 1667
+Cliente: 648 ha acquistato un biglietto in posizione: 351, 1395, 703
+Cliente: 739 ha acquistato un biglietto in posizione: 1569, 219
+Cliente: 927 ha acquistato un biglietto in posizione: 1103, 747
+Cliente: 554 ha acquistato un biglietto in posizione: 1711, 1837
+Cliente: 235 ha acquistato un biglietto in posizione: 900, 1996, 1544, 1622, 263
+Cliente: 294 ha acquistato un biglietto in posizione: 225, 1747, 1527, 385
+Cliente: 809 ha acquistato un biglietto in posizione: 1036
+Cliente: 592 ha acquistato un biglietto in posizione: 611, 241
+Cliente: 5 ha acquistato un biglietto in posizione: 746, 1601, 1677, 1201
+Cliente: 997 ha acquistato un biglietto in posizione: 608, 1556, 1265, 1658, 1102
+Cliente: 632 ha acquistato un biglietto in posizione: 789, 1999, 1564
+Cliente: 272 ha acquistato un biglietto in posizione: 1396
+Cliente: 854 ha acquistato un biglietto in posizione: 1474, 1298, 481
+Cliente: 297 ha acquistato un biglietto in posizione: 1141
+Cliente: 966 ha acquistato un biglietto in posizione: 615, 870
+Cliente: 405 ha acquistato un biglietto in posizione: 767, 1090
+Cliente: 406 ha acquistato un biglietto in posizione: 1003, 1470
+Cliente: 717 ha acquistato un biglietto in posizione: 1614, 1907, 1341, 1842, 732
+Cliente: 537 ha acquistato un biglietto in posizione: 1434
+Cliente: 808 ha acquistato un biglietto in posizione: 957
+Cliente: 131 ha acquistato un biglietto in posizione: 1038, 64
+Cliente: 839 ha acquistato un biglietto in posizione: 135, 607, 1242, 1785
+Cliente: 333 ha acquistato un biglietto in posizione: 956, 675, 1164, 630, 1730
+Cliente: 111 ha acquistato un biglietto in posizione: 1654, 1431, 885
+Cliente: 968 ha acquistato un biglietto in posizione: 1946, 14
+Cliente: 758 ha acquistato un biglietto in posizione: 999
+Cliente: 934 ha acquistato un biglietto in posizione: 730, 1930
+Cliente: 842 ha acquistato un biglietto in posizione: 610
+Cliente: 249 ha acquistato un biglietto in posizione: 1683
+Cliente: 677 ha acquistato un biglietto in posizione: 812
+Cliente: 668 ha acquistato un biglietto in posizione: 68
+Cliente: 859 ha acquistato un biglietto in posizione: 220
+Cliente: 975 ha acquistato un biglietto in posizione: 1498, 1015, 1458
+Cliente: 687 ha acquistato un biglietto in posizione: 1314, 718, 1250
+Cliente: 802 ha acquistato un biglietto in posizione: 509
+Cliente: 109 ha acquistato un biglietto in posizione: 384, 5
+Cliente: 810 ha acquistato un biglietto in posizione: 1151, 944, 1623, 583
+Cliente: 700 ha acquistato un biglietto in posizione: 15, 1321, 1734, 805
+Cliente: 63 ha acquistato un biglietto in posizione: 1339, 472
+Cliente: 345 ha acquistato un biglietto in posizione: 158
+Cliente: 101 ha acquistato un biglietto in posizione: 1464, 820
+Cliente: 594 ha acquistato un biglietto in posizione: 78, 1896
+Cliente: 778 ha acquistato un biglietto in posizione: 1580, 1332, 1609
+Cliente: 734 ha acquistato un biglietto in posizione: 975, 1877, 1836
+Cliente: 295 ha acquistato un biglietto in posizione: 609
+Cliente: 226 ha acquistato un biglietto in posizione: 572, 349, 372
+Cliente: 990 ha acquistato un biglietto in posizione: 355, 1401
+Cliente: 232 ha acquistato un biglietto in posizione: 828
+
+
+Fine vendita biglietti: 31/03/2022 11:26:18
+
+Cliente: 393 ha acquistato un biglietto in posizione: 33, 1940, 792, 601
+Cliente: 142 ha acquistato un biglietto in posizione: 1491
+Cliente: 504 ha acquistato un biglietto in posizione: 1334
+Cliente: 655 ha acquistato un biglietto in posizione: 1226, 1538
+Cliente: 365 ha acquistato un biglietto in posizione: 1216
+Cliente: 141 ha acquistato un biglietto in posizione: 127, 1716, 1292, 890
+Cliente: 119 ha acquistato un biglietto in posizione: 1552, 1534
+Cliente: 139 ha acquistato un biglietto in posizione: 234
+Cliente: 192 ha acquistato un biglietto in posizione: 1304, 1182, 951, 1439
+Cliente: 207 ha acquistato un biglietto in posizione: 1045
+Cliente: 460 ha acquistato un biglietto in posizione: 1591
+Cliente: 179 ha acquistato un biglietto in posizione: 208, 972, 1038, 1677
+Cliente: 114 ha acquistato un biglietto in posizione: 1617, 4, 1607
+Cliente: 164 ha acquistato un biglietto in posizione: 1906, 1348
+Cliente: 561 ha acquistato un biglietto in posizione: 19, 349
+Cliente: 181 ha acquistato un biglietto in posizione: 1820, 1724, 1858
+Cliente: 322 ha acquistato un biglietto in posizione: 1555
+Cliente: 575 ha acquistato un biglietto in posizione: 1067
+Cliente: 468 ha acquistato un biglietto in posizione: 185, 1037, 1262, 1119
+Cliente: 163 ha acquistato un biglietto in posizione: 1742, 521
+Cliente: 483 ha acquistato un biglietto in posizione: 1812, 214
+Cliente: 558 ha acquistato un biglietto in posizione: 1257
+Cliente: 539 ha acquistato un biglietto in posizione: 365
+Cliente: 124 ha acquistato un biglietto in posizione: 1528, 286, 1596
+Cliente: 168 ha acquistato un biglietto in posizione: 611, 1775
+Cliente: 432 ha acquistato un biglietto in posizione: 1324
+Cliente: 233 ha acquistato un biglietto in posizione: 1570, 757
+Cliente: 671 ha acquistato un biglietto in posizione: 965, 1706, 933
+Cliente: 369 ha acquistato un biglietto in posizione: 636, 1767
+Cliente: 51 ha acquistato un biglietto in posizione: 1138
+Cliente: 72 ha acquistato un biglietto in posizione: 155, 725
+Cliente: 68 ha acquistato un biglietto in posizione: 710, 1467
+Cliente: 476 ha acquistato un biglietto in posizione: 1494, 680, 9, 1073
+Cliente: 364 ha acquistato un biglietto in posizione: 142
+Cliente: 470 ha acquistato un biglietto in posizione: 1408
+Cliente: 203 ha acquistato un biglietto in posizione: 1366, 854, 530
+Cliente: 86 ha acquistato un biglietto in posizione: 1240, 732, 1972, 246, 1008
+Cliente: 531 ha acquistato un biglietto in posizione: 1161, 602, 1710
+Cliente: 199 ha acquistato un biglietto in posizione: 1277, 1290
+Cliente: 675 ha acquistato un biglietto in posizione: 1797, 1046, 288
+Cliente: 95 ha acquistato un biglietto in posizione: 1514, 1049, 45
+Cliente: 355 ha acquistato un biglietto in posizione: 1160
+Cliente: 395 ha acquistato un biglietto in posizione: 1430
+Cliente: 248 ha acquistato un biglietto in posizione: 87
+Cliente: 514 ha acquistato un biglietto in posizione: 991
+Cliente: 562 ha acquistato un biglietto in posizione: 827, 744, 1454
+Cliente: 7 ha acquistato un biglietto in posizione: 1919, 103, 26, 1666
+Cliente: 433 ha acquistato un biglietto in posizione: 935, 721, 1689
+Cliente: 560 ha acquistato un biglietto in posizione: 1241, 412, 1875, 1998
+Cliente: 282 ha acquistato un biglietto in posizione: 1774, 559, 372, 1363
+Cliente: 24 ha acquistato un biglietto in posizione: 52, 1229, 1589, 1497
+Cliente: 136 ha acquistato un biglietto in posizione: 1739, 1405, 713, 544
+Cliente: 27 ha acquistato un biglietto in posizione: 493, 1389
+Cliente: 85 ha acquistato un biglietto in posizione: 48
+Cliente: 423 ha acquistato un biglietto in posizione: 1916
+Cliente: 546 ha acquistato un biglietto in posizione: 1754, 1371, 672, 1700
+Cliente: 430 ha acquistato un biglietto in posizione: 320, 379, 1653
+Cliente: 543 ha acquistato un biglietto in posizione: 707, 797, 1110, 922
+Cliente: 497 ha acquistato un biglietto in posizione: 1551
+Cliente: 225 ha acquistato un biglietto in posizione: 547, 783
+Cliente: 435 ha acquistato un biglietto in posizione: 406, 1444, 1003, 1532
+Cliente: 8 ha acquistato un biglietto in posizione: 490, 273
+Cliente: 570 ha acquistato un biglietto in posizione: 651, 619, 1175, 892
+Cliente: 406 ha acquistato un biglietto in posizione: 1428, 1091, 387
+Cliente: 629 ha acquistato un biglietto in posizione: 1999, 1462, 1888
+Cliente: 700 ha acquistato un biglietto in posizione: 699, 1265, 1291, 829
+Cliente: 585 ha acquistato un biglietto in posizione: 170
+Cliente: 649 ha acquistato un biglietto in posizione: 295, 1598, 901, 1178
+Cliente: 172 ha acquistato un biglietto in posizione: 687
+Cliente: 641 ha acquistato un biglietto in posizione: 163, 1245, 1035
+Cliente: 30 ha acquistato un biglietto in posizione: 405, 1738
+Cliente: 19 ha acquistato un biglietto in posizione: 1513, 46
+Cliente: 425 ha acquistato un biglietto in posizione: 1549, 738, 1172
+Cliente: 486 ha acquistato un biglietto in posizione: 1953, 130, 1590
+Cliente: 381 ha acquistato un biglietto in posizione: 1005, 1594
+Cliente: 230 ha acquistato un biglietto in posizione: 275, 1058, 640, 1838, 1335
+Cliente: 125 ha acquistato un biglietto in posizione: 1621, 777, 35
+Cliente: 414 ha acquistato un biglietto in posizione: 1862, 303
+Cliente: 697 ha acquistato un biglietto in posizione: 1224, 1942
+Cliente: 187 ha acquistato un biglietto in posizione: 237
+Cliente: 240 ha acquistato un biglietto in posizione: 874
+Cliente: 535 ha acquistato un biglietto in posizione: 59, 1926
+Cliente: 59 ha acquistato un biglietto in posizione: 943
+Cliente: 616 ha acquistato un biglietto in posizione: 856
+Cliente: 336 ha acquistato un biglietto in posizione: 880, 936, 579
+Cliente: 633 ha acquistato un biglietto in posizione: 1094
+Cliente: 148 ha acquistato un biglietto in posizione: 1207, 659, 1255
+Cliente: 144 ha acquistato un biglietto in posizione: 195, 1510, 494
+Cliente: 281 ha acquistato un biglietto in posizione: 812
+Cliente: 439 ha acquistato un biglietto in posizione: 1721
+Cliente: 648 ha acquistato un biglietto in posizione: 1974, 1209, 568, 945
+Cliente: 598 ha acquistato un biglietto in posizione: 1247
+Cliente: 653 ha acquistato un biglietto in posizione: 1824, 1376, 997, 912
+Cliente: 39 ha acquistato un biglietto in posizione: 1773, 1339
+Cliente: 94 ha acquistato un biglietto in posizione: 1619
+Cliente: 455 ha acquistato un biglietto in posizione: 564, 1087
+Cliente: 120 ha acquistato un biglietto in posizione: 571
+Cliente: 64 ha acquistato un biglietto in posizione: 1595, 1167, 1022
+Cliente: 200 ha acquistato un biglietto in posizione: 477, 1516, 983
+Cliente: 343 ha acquistato un biglietto in posizione: 1433, 1068, 839, 1846
+Cliente: 672 ha acquistato un biglietto in posizione: 1329, 1295, 754
+Cliente: 138 ha acquistato un biglietto in posizione: 1995, 960, 1526
+Cliente: 550 ha acquistato un biglietto in posizione: 810
+Cliente: 540 ha acquistato un biglietto in posizione: 307, 216, 1485, 1593, 174
+Cliente: 477 ha acquistato un biglietto in posizione: 476, 625, 789, 149
+Cliente: 145 ha acquistato un biglietto in posizione: 837, 77, 634, 1635
+Cliente: 147 ha acquistato un biglietto in posizione: 1946, 806, 82, 1090
+Cliente: 613 ha acquistato un biglietto in posizione: 1587
+Cliente: 686 ha acquistato un biglietto in posizione: 1319, 333, 470
+Cliente: 405 ha acquistato un biglietto in posizione: 27, 759, 1509
+Cliente: 262 ha acquistato un biglietto in posizione: 747, 1688
+Cliente: 469 ha acquistato un biglietto in posizione: 1051, 449
+Cliente: 458 ha acquistato un biglietto in posizione: 1000, 1317
+Cliente: 228 ha acquistato un biglietto in posizione: 1983, 847
+Cliente: 634 ha acquistato un biglietto in posizione: 703, 654
+Cliente: 258 ha acquistato un biglietto in posizione: 832
+Cliente: 105 ha acquistato un biglietto in posizione: 1042
+Cliente: 688 ha acquistato un biglietto in posizione: 1298, 1781, 1533
+Cliente: 231 ha acquistato un biglietto in posizione: 795, 1868, 782
+Cliente: 133 ha acquistato un biglietto in posizione: 1834, 1482
+Cliente: 412 ha acquistato un biglietto in posizione: 742, 776, 1611, 1121
+Cliente: 55 ha acquistato un biglietto in posizione: 1740, 1563, 1609, 1406
+Cliente: 473 ha acquistato un biglietto in posizione: 1128, 1063, 909, 801
+Cliente: 384 ha acquistato un biglietto in posizione: 953, 1442, 826
+Cliente: 3 ha acquistato un biglietto in posizione: 270, 803, 1576, 324
+Cliente: 436 ha acquistato un biglietto in posizione: 944
+Cliente: 567 ha acquistato un biglietto in posizione: 1765
+Cliente: 553 ha acquistato un biglietto in posizione: 1115
+Cliente: 564 ha acquistato un biglietto in posizione: 188, 225
+Cliente: 373 ha acquistato un biglietto in posizione: 1550, 509, 429, 1365
+Cliente: 654 ha acquistato un biglietto in posizione: 1859
+Cliente: 91 ha acquistato un biglietto in posizione: 228, 534
+Cliente: 499 ha acquistato un biglietto in posizione: 1164, 248, 441
+Cliente: 637 ha acquistato un biglietto in posizione: 553, 1936, 529
+Cliente: 408 ha acquistato un biglietto in posizione: 555
+Cliente: 25 ha acquistato un biglietto in posizione: 1511, 145, 1425
+Cliente: 82 ha acquistato un biglietto in posizione: 266, 259, 1381
+Cliente: 16 ha acquistato un biglietto in posizione: 182, 334, 1707, 1235
+Cliente: 170 ha acquistato un biglietto in posizione: 595
+Cliente: 324 ha acquistato un biglietto in posizione: 111, 323, 283
+Cliente: 595 ha acquistato un biglietto in posizione: 1541, 830
+Cliente: 277 ha acquistato un biglietto in posizione: 704
+Cliente: 23 ha acquistato un biglietto in posizione: 385, 501
+Cliente: 302 ha acquistato un biglietto in posizione: 431, 1975, 1176
+Cliente: 146 ha acquistato un biglietto in posizione: 17, 663, 293, 1695
+Cliente: 48 ha acquistato un biglietto in posizione: 238, 900, 475
+Cliente: 650 ha acquistato un biglietto in posizione: 940, 1086, 511, 1264
+Cliente: 680 ha acquistato un biglietto in posizione: 1130, 1790, 523, 1227, 1013
+Cliente: 510 ha acquistato un biglietto in posizione: 317
+Cliente: 668 ha acquistato un biglietto in posizione: 955
+Cliente: 20 ha acquistato un biglietto in posizione: 1719, 988
+Cliente: 691 ha acquistato un biglietto in posizione: 1149, 804
+Cliente: 109 ha acquistato un biglietto in posizione: 639, 1379
+Cliente: 639 ha acquistato un biglietto in posizione: 1470
+Cliente: 106 ha acquistato un biglietto in posizione: 1419
+Cliente: 479 ha acquistato un biglietto in posizione: 962, 1452, 65
+Cliente: 451 ha acquistato un biglietto in posizione: 3, 1171
+Cliente: 377 ha acquistato un biglietto in posizione: 979, 1273, 1914
+Cliente: 229 ha acquistato un biglietto in posizione: 1236
+Cliente: 49 ha acquistato un biglietto in posizione: 7, 1780
+Cliente: 264 ha acquistato un biglietto in posizione: 187, 726
+Cliente: 521 ha acquistato un biglietto in posizione: 1950
+Cliente: 536 ha acquistato un biglietto in posizione: 1791, 362
+
+
+Fine vendita biglietti: 31/03/2022 11:31:07
+
+Cliente: 217 ha acquistato un biglietto in posizione: 79
+Cliente: 696 ha acquistato un biglietto in posizione: 1885
+Cliente: 193 ha acquistato un biglietto in posizione: 1795, 855
+Cliente: 204 ha acquistato un biglietto in posizione: 217, 1625
+Cliente: 683 ha acquistato un biglietto in posizione: 69
+Cliente: 509 ha acquistato un biglietto in posizione: 1343, 1452, 361
+Cliente: 160 ha acquistato un biglietto in posizione: 748, 1973, 1186
+Cliente: 499 ha acquistato un biglietto in posizione: 1415, 1190
+Cliente: 493 ha acquistato un biglietto in posizione: 1425, 698, 1012
+Cliente: 185 ha acquistato un biglietto in posizione: 1460, 715
+Cliente: 178 ha acquistato un biglietto in posizione: 1772, 175, 1263, 65
+Cliente: 347 ha acquistato un biglietto in posizione: 1962, 703, 1182, 1515
+Cliente: 491 ha acquistato un biglietto in posizione: 822, 1270, 1848, 535, 1766
+Cliente: 113 ha acquistato un biglietto in posizione: 1114, 440
+Cliente: 525 ha acquistato un biglietto in posizione: 170, 80, 1509, 1402
+Cliente: 547 ha acquistato un biglietto in posizione: 1967, 623, 1160
+Cliente: 277 ha acquistato un biglietto in posizione: 1798, 157
+Cliente: 260 ha acquistato un biglietto in posizione: 1740, 431, 813
+Cliente: 75 ha acquistato un biglietto in posizione: 616
+Cliente: 550 ha acquistato un biglietto in posizione: 1586, 651
+Cliente: 100 ha acquistato un biglietto in posizione: 1384
+Cliente: 342 ha acquistato un biglietto in posizione: 1219, 1951, 401
+Cliente: 531 ha acquistato un biglietto in posizione: 365, 1583
+Cliente: 440 ha acquistato un biglietto in posizione: 766, 337, 797, 881
+Cliente: 353 ha acquistato un biglietto in posizione: 1912, 771, 800, 880
+Cliente: 595 ha acquistato un biglietto in posizione: 58
+Cliente: 604 ha acquistato un biglietto in posizione: 700, 918
+Cliente: 638 ha acquistato un biglietto in posizione: 1229
+Cliente: 359 ha acquistato un biglietto in posizione: 1223
+Cliente: 465 ha acquistato un biglietto in posizione: 1493
+Cliente: 559 ha acquistato un biglietto in posizione: 483, 791, 864
+Cliente: 213 ha acquistato un biglietto in posizione: 853, 1896, 141, 892
+Cliente: 513 ha acquistato un biglietto in posizione: 696
+Cliente: 208 ha acquistato un biglietto in posizione: 250, 925, 1194
+Cliente: 402 ha acquistato un biglietto in posizione: 291
+Cliente: 216 ha acquistato un biglietto in posizione: 139, 580, 567
+Cliente: 653 ha acquistato un biglietto in posizione: 1634
+Cliente: 37 ha acquistato un biglietto in posizione: 1711, 1520
+Cliente: 72 ha acquistato un biglietto in posizione: 349, 1143
+Cliente: 649 ha acquistato un biglietto in posizione: 241
+Cliente: 21 ha acquistato un biglietto in posizione: 668, 474, 1022, 1722
+Cliente: 522 ha acquistato un biglietto in posizione: 1140, 312
+Cliente: 690 ha acquistato un biglietto in posizione: 1020
+Cliente: 174 ha acquistato un biglietto in posizione: 146, 1491, 210
+Cliente: 605 ha acquistato un biglietto in posizione: 728, 1611, 895
+Cliente: 215 ha acquistato un biglietto in posizione: 1838, 686, 96
+Cliente: 289 ha acquistato un biglietto in posizione: 148, 1331
+Cliente: 19 ha acquistato un biglietto in posizione: 1978, 1249
+Cliente: 116 ha acquistato un biglietto in posizione: 1814, 1189
+Cliente: 614 ha acquistato un biglietto in posizione: 1218, 1966
+Cliente: 111 ha acquistato un biglietto in posizione: 572, 794
+Cliente: 198 ha acquistato un biglietto in posizione: 1870, 87, 721, 1213
+Cliente: 22 ha acquistato un biglietto in posizione: 1645
+Cliente: 404 ha acquistato un biglietto in posizione: 610
+Cliente: 278 ha acquistato un biglietto in posizione: 1840
+Cliente: 10 ha acquistato un biglietto in posizione: 1781, 858, 866, 366
+Cliente: 447 ha acquistato un biglietto in posizione: 1724, 725
+Cliente: 423 ha acquistato un biglietto in posizione: 1416
+Cliente: 243 ha acquistato un biglietto in posizione: 14, 36, 1844
+Cliente: 104 ha acquistato un biglietto in posizione: 919, 1388, 49, 1412
+Cliente: 161 ha acquistato un biglietto in posizione: 910, 1318, 1706, 1469
+Cliente: 519 ha acquistato un biglietto in posizione: 902
+Cliente: 473 ha acquistato un biglietto in posizione: 1830, 1314
+Cliente: 16 ha acquistato un biglietto in posizione: 1109, 817, 590
+Cliente: 57 ha acquistato un biglietto in posizione: 1127, 107, 399
+Cliente: 637 ha acquistato un biglietto in posizione: 1432, 1132, 1184
+Cliente: 549 ha acquistato un biglietto in posizione: 1566, 773
+Cliente: 181 ha acquistato un biglietto in posizione: 829
+Cliente: 646 ha acquistato un biglietto in posizione: 731, 857, 839
+Cliente: 183 ha acquistato un biglietto in posizione: 396, 62, 1536, 328
+Cliente: 35 ha acquistato un biglietto in posizione: 1581
+Cliente: 304 ha acquistato un biglietto in posizione: 1737, 1259, 1534
+Cliente: 606 ha acquistato un biglietto in posizione: 1681, 1834
+Cliente: 650 ha acquistato un biglietto in posizione: 751, 223, 393
+Cliente: 562 ha acquistato un biglietto in posizione: 754
+Cliente: 687 ha acquistato un biglietto in posizione: 138
+Cliente: 145 ha acquistato un biglietto in posizione: 1238
+Cliente: 633 ha acquistato un biglietto in posizione: 1650, 711, 1257
+Cliente: 322 ha acquistato un biglietto in posizione: 912
+Cliente: 644 ha acquistato un biglietto in posizione: 270, 314
+Cliente: 628 ha acquistato un biglietto in posizione: 1271, 1196, 26
+Cliente: 210 ha acquistato un biglietto in posizione: 1910, 1543, 1468, 1346, 1992
+Cliente: 518 ha acquistato un biglietto in posizione: 907
+Cliente: 428 ha acquistato un biglietto in posizione: 1008, 472, 1382
+Cliente: 632 ha acquistato un biglietto in posizione: 1201, 1644
+Cliente: 222 ha acquistato un biglietto in posizione: 176
+Cliente: 256 ha acquistato un biglietto in posizione: 380, 618, 934
+Cliente: 94 ha acquistato un biglietto in posizione: 1362
+Cliente: 444 ha acquistato un biglietto in posizione: 1043
+Cliente: 652 ha acquistato un biglietto in posizione: 1071, 808, 1494, 1039
+Cliente: 504 ha acquistato un biglietto in posizione: 1518, 542, 1919, 1307
+Cliente: 406 ha acquistato un biglietto in posizione: 1096
+Cliente: 205 ha acquistato un biglietto in posizione: 1553, 132, 1800, 930, 1288
+Cliente: 346 ha acquistato un biglietto in posizione: 1780, 372
+Cliente: 487 ha acquistato un biglietto in posizione: 502
+Cliente: 293 ha acquistato un biglietto in posizione: 1729, 268, 1211, 1216, 679
+Cliente: 128 ha acquistato un biglietto in posizione: 294
+Cliente: 313 ha acquistato un biglietto in posizione: 1636, 112, 1077
+Cliente: 539 ha acquistato un biglietto in posizione: 262, 1001, 1059
+Cliente: 223 ha acquistato un biglietto in posizione: 665
+Cliente: 409 ha acquistato un biglietto in posizione: 967, 878, 1247, 279
+Cliente: 309 ha acquistato un biglietto in posizione: 1242, 653
+Cliente: 15 ha acquistato un biglietto in posizione: 1571, 526, 873
+Cliente: 115 ha acquistato un biglietto in posizione: 1356, 564, 1498
+Cliente: 317 ha acquistato un biglietto in posizione: 382
+Cliente: 467 ha acquistato un biglietto in posizione: 920, 303, 447, 1013
+Cliente: 620 ha acquistato un biglietto in posizione: 1646, 1708, 1602, 64, 1878
+Cliente: 261 ha acquistato un biglietto in posizione: 1465
+Cliente: 426 ha acquistato un biglietto in posizione: 1934, 1375, 92, 95, 478
+Cliente: 334 ha acquistato un biglietto in posizione: 1564, 1764, 1134, 416, 661
+Cliente: 80 ha acquistato un biglietto in posizione: 1463, 1176, 906
+Cliente: 180 ha acquistato un biglietto in posizione: 456, 894, 91
+Cliente: 463 ha acquistato un biglietto in posizione: 1778
+Cliente: 512 ha acquistato un biglietto in posizione: 1901
+Cliente: 6 ha acquistato un biglietto in posizione: 286, 199, 1370, 356
+Cliente: 122 ha acquistato un biglietto in posizione: 1102
+Cliente: 153 ha acquistato un biglietto in posizione: 216, 1606, 261, 1148
+Cliente: 252 ha acquistato un biglietto in posizione: 534
+Cliente: 230 ha acquistato un biglietto in posizione: 398
+Cliente: 578 ha acquistato un biglietto in posizione: 598, 364, 97
+Cliente: 648 ha acquistato un biglietto in posizione: 482
+Cliente: 292 ha acquistato un biglietto in posizione: 1649, 1385
+Cliente: 262 ha acquistato un biglietto in posizione: 1668, 876, 1423, 1996
+Cliente: 151 ha acquistato un biglietto in posizione: 779, 481, 78, 1453
+Cliente: 579 ha acquistato un biglietto in posizione: 221, 851, 1700
+Cliente: 682 ha acquistato un biglietto in posizione: 1986, 187
+Cliente: 142 ha acquistato un biglietto in posizione: 1068, 1609, 1106, 1667
+Cliente: 165 ha acquistato un biglietto in posizione: 1842, 1274
+Cliente: 477 ha acquistato un biglietto in posizione: 51
+Cliente: 517 ha acquistato un biglietto in posizione: 1983, 1187, 1883, 1222
+Cliente: 679 ha acquistato un biglietto in posizione: 473, 242
+Cliente: 573 ha acquistato un biglietto in posizione: 1626, 886, 1206
+Cliente: 303 ha acquistato un biglietto in posizione: 190, 1258, 1031
+Cliente: 149 ha acquistato un biglietto in posizione: 1516, 1892
+Cliente: 218 ha acquistato un biglietto in posizione: 619, 1266, 180, 1014
+Cliente: 312 ha acquistato un biglietto in posizione: 238
+Cliente: 175 ha acquistato un biglietto in posizione: 183, 1287
+Cliente: 436 ha acquistato un biglietto in posizione: 1049, 1513, 368, 863, 1522
+Cliente: 130 ha acquistato un biglietto in posizione: 300
+Cliente: 95 ha acquistato un biglietto in posizione: 1587, 1340, 1976
+Cliente: 327 ha acquistato un biglietto in posizione: 1067, 848, 1707
+Cliente: 190 ha acquistato un biglietto in posizione: 735, 1852
+Cliente: 665 ha acquistato un biglietto in posizione: 1117
+Cliente: 592 ha acquistato un biglietto in posizione: 697, 578, 655, 768, 1466
+Cliente: 305 ha acquistato un biglietto in posizione: 659, 631, 1366
+Cliente: 542 ha acquistato un biglietto in posizione: 682, 145
+Cliente: 560 ha acquistato un biglietto in posizione: 601
+Cliente: 514 ha acquistato un biglietto in posizione: 212, 1754, 1906
+Cliente: 196 ha acquistato un biglietto in posizione: 1420, 1669
+Cliente: 373 ha acquistato un biglietto in posizione: 306
+Cliente: 697 ha acquistato un biglietto in posizione: 629, 1939
+Cliente: 500 ha acquistato un biglietto in posizione: 1739, 285
+Cliente: 310 ha acquistato un biglietto in posizione: 421
+Cliente: 567 ha acquistato un biglietto in posizione: 1843, 702
+Cliente: 700 ha acquistato un biglietto in posizione: 278, 1471, 1532
+Cliente: 67 ha acquistato un biglietto in posizione: 429, 1137, 1719, 1935
+Cliente: 182 ha acquistato un biglietto in posizione: 1199
+Cliente: 231 ha acquistato un biglietto in posizione: 275, 909
+Cliente: 287 ha acquistato un biglietto in posizione: 48
+Cliente: 546 ha acquistato un biglietto in posizione: 513, 1005
+
+
+Fine vendita biglietti: 31/03/2022 11:32:17
+
+Cliente: 419 ha acquistato un biglietto in posizione: 133, 281, 1199, 1449
+Cliente: 511 ha acquistato un biglietto in posizione: 582, 1777, 1796, 159, 1592
+Cliente: 69 ha acquistato un biglietto in posizione: 1124, 1862
+Cliente: 354 ha acquistato un biglietto in posizione: 1713
+Cliente: 259 ha acquistato un biglietto in posizione: 62, 955, 1941, 302
+Cliente: 687 ha acquistato un biglietto in posizione: 541, 614, 693, 838
+Cliente: 58 ha acquistato un biglietto in posizione: 1175, 1962
+Cliente: 55 ha acquistato un biglietto in posizione: 297
+Cliente: 68 ha acquistato un biglietto in posizione: 1724
+Cliente: 98 ha acquistato un biglietto in posizione: 1195, 1940
+Cliente: 133 ha acquistato un biglietto in posizione: 1036, 1441
+Cliente: 467 ha acquistato un biglietto in posizione: 1536, 595, 207, 797
+Cliente: 121 ha acquistato un biglietto in posizione: 336, 1942, 1434
+Cliente: 94 ha acquistato un biglietto in posizione: 1886, 1594, 1760, 393
+Cliente: 528 ha acquistato un biglietto in posizione: 1932
+Cliente: 671 ha acquistato un biglietto in posizione: 356, 1435, 1096, 1446
+Cliente: 216 ha acquistato un biglietto in posizione: 1218, 1978, 1353
+Cliente: 641 ha acquistato un biglietto in posizione: 1233, 1672
+Cliente: 214 ha acquistato un biglietto in posizione: 1567, 1819, 1841, 352
+Cliente: 102 ha acquistato un biglietto in posizione: 834
+Cliente: 175 ha acquistato un biglietto in posizione: 409
+Cliente: 692 ha acquistato un biglietto in posizione: 111, 690
+Cliente: 403 ha acquistato un biglietto in posizione: 1090
+Cliente: 530 ha acquistato un biglietto in posizione: 758, 729, 1322
+Cliente: 301 ha acquistato un biglietto in posizione: 977, 1875
+Cliente: 595 ha acquistato un biglietto in posizione: 188, 1998, 956
+Cliente: 667 ha acquistato un biglietto in posizione: 333, 1526, 862, 323
+Cliente: 627 ha acquistato un biglietto in posizione: 571, 29
+Cliente: 129 ha acquistato un biglietto in posizione: 1919
+Cliente: 328 ha acquistato un biglietto in posizione: 1
+Cliente: 673 ha acquistato un biglietto in posizione: 1768, 1548, 1492, 1479
+Cliente: 633 ha acquistato un biglietto in posizione: 1788, 720
+Cliente: 426 ha acquistato un biglietto in posizione: 985, 1007, 1060
+Cliente: 427 ha acquistato un biglietto in posizione: 463
+Cliente: 452 ha acquistato un biglietto in posizione: 138, 371
+Cliente: 117 ha acquistato un biglietto in posizione: 844, 314, 861
+Cliente: 571 ha acquistato un biglietto in posizione: 39, 1024, 574, 1846
+Cliente: 190 ha acquistato un biglietto in posizione: 1864, 1185, 1573, 995, 1395
+Cliente: 16 ha acquistato un biglietto in posizione: 802, 400, 1166
+Cliente: 695 ha acquistato un biglietto in posizione: 245
+Cliente: 373 ha acquistato un biglietto in posizione: 767, 1723
+Cliente: 548 ha acquistato un biglietto in posizione: 1167
+Cliente: 236 ha acquistato un biglietto in posizione: 1222, 1728
+Cliente: 622 ha acquistato un biglietto in posizione: 1912, 1329
+Cliente: 413 ha acquistato un biglietto in posizione: 1717, 1390, 1644, 1345
+Cliente: 63 ha acquistato un biglietto in posizione: 686
+Cliente: 182 ha acquistato un biglietto in posizione: 558, 640, 1112, 1994, 902
+Cliente: 492 ha acquistato un biglietto in posizione: 397, 1787, 606
+Cliente: 444 ha acquistato un biglietto in posizione: 540, 1015
+Cliente: 66 ha acquistato un biglietto in posizione: 702, 1256
+Cliente: 643 ha acquistato un biglietto in posizione: 1387, 568, 554
+Cliente: 206 ha acquistato un biglietto in posizione: 1616, 1916
+Cliente: 147 ha acquistato un biglietto in posizione: 1274, 1196, 324, 1174
+Cliente: 451 ha acquistato un biglietto in posizione: 231, 1584, 315, 991, 199
+Cliente: 637 ha acquistato un biglietto in posizione: 766, 96
+Cliente: 654 ha acquistato un biglietto in posizione: 896
+Cliente: 202 ha acquistato un biglietto in posizione: 1372
+Cliente: 118 ha acquistato un biglietto in posizione: 906, 1460, 1475
+Cliente: 618 ha acquistato un biglietto in posizione: 670, 1250, 1595
+Cliente: 6 ha acquistato un biglietto in posizione: 1002
+Cliente: 417 ha acquistato un biglietto in posizione: 1684, 1158
+Cliente: 87 ha acquistato un biglietto in posizione: 1625, 1969, 538
+Cliente: 265 ha acquistato un biglietto in posizione: 1205, 552, 1454
+Cliente: 304 ha acquistato un biglietto in posizione: 725, 1683, 625
+Cliente: 169 ha acquistato un biglietto in posizione: 42, 856, 510, 548
+Cliente: 136 ha acquistato un biglietto in posizione: 1578, 1300, 707
+Cliente: 407 ha acquistato un biglietto in posizione: 714
+Cliente: 601 ha acquistato un biglietto in posizione: 740, 178, 1448, 1034, 1422
+Cliente: 199 ha acquistato un biglietto in posizione: 403, 1786, 1905, 1077, 724
+Cliente: 227 ha acquistato un biglietto in posizione: 1782
+Cliente: 599 ha acquistato un biglietto in posizione: 644
+Cliente: 60 ha acquistato un biglietto in posizione: 1759
+Cliente: 652 ha acquistato un biglietto in posizione: 313, 1014, 1848, 399
+Cliente: 598 ha acquistato un biglietto in posizione: 131, 986, 963, 584
+Cliente: 116 ha acquistato un biglietto in posizione: 1659, 1011, 37
+Cliente: 44 ha acquistato un biglietto in posizione: 1890, 1315
+Cliente: 439 ha acquistato un biglietto in posizione: 1608
+Cliente: 229 ha acquistato un biglietto in posizione: 1461, 1853
+Cliente: 340 ha acquistato un biglietto in posizione: 26, 1598
+Cliente: 613 ha acquistato un biglietto in posizione: 941, 542, 682, 1741
+Cliente: 381 ha acquistato un biglietto in posizione: 156, 1693, 948, 1626, 626
+Cliente: 56 ha acquistato un biglietto in posizione: 1591, 1982, 1512, 491, 1719
+Cliente: 588 ha acquistato un biglietto in posizione: 855, 1903
+Cliente: 616 ha acquistato un biglietto in posizione: 260, 1794
+Cliente: 179 ha acquistato un biglietto in posizione: 1611
+Cliente: 650 ha acquistato un biglietto in posizione: 1972
+Cliente: 53 ha acquistato un biglietto in posizione: 551
+Cliente: 446 ha acquistato un biglietto in posizione: 388, 1617
+Cliente: 84 ha acquistato un biglietto in posizione: 1282, 430
+Cliente: 544 ha acquistato un biglietto in posizione: 624
+Cliente: 384 ha acquistato un biglietto in posizione: 307, 280
+Cliente: 386 ha acquistato un biglietto in posizione: 1229, 1523, 394
+Cliente: 420 ha acquistato un biglietto in posizione: 689, 1601, 1705, 1495
+Cliente: 536 ha acquistato un biglietto in posizione: 1132, 1908, 826
+Cliente: 359 ha acquistato un biglietto in posizione: 788, 1860, 450, 1254
+Cliente: 376 ha acquistato un biglietto in posizione: 1355, 1364
+Cliente: 400 ha acquistato un biglietto in posizione: 366, 721, 1798, 1524
+Cliente: 365 ha acquistato un biglietto in posizione: 872, 1383, 473
+Cliente: 621 ha acquistato un biglietto in posizione: 1517, 790
+Cliente: 620 ha acquistato un biglietto in posizione: 417, 493, 175
+Cliente: 604 ha acquistato un biglietto in posizione: 620
+Cliente: 688 ha acquistato un biglietto in posizione: 653, 672
+Cliente: 307 ha acquistato un biglietto in posizione: 468, 1628
+Cliente: 487 ha acquistato un biglietto in posizione: 1269, 51
+Cliente: 353 ha acquistato un biglietto in posizione: 1094, 681
+Cliente: 113 ha acquistato un biglietto in posizione: 1599, 1971, 549, 951
+Cliente: 14 ha acquistato un biglietto in posizione: 1251, 761
+Cliente: 539 ha acquistato un biglietto in posizione: 262, 437, 1670
+Cliente: 414 ha acquistato un biglietto in posizione: 434, 847, 1334
+Cliente: 689 ha acquistato un biglietto in posizione: 74, 1477, 723
+Cliente: 674 ha acquistato un biglietto in posizione: 451, 583, 1597, 374
+Cliente: 431 ha acquistato un biglietto in posizione: 1187, 1967, 1144
+Cliente: 39 ha acquistato un biglietto in posizione: 885
+Cliente: 274 ha acquistato un biglietto in posizione: 1016, 1688, 1084
+Cliente: 65 ha acquistato un biglietto in posizione: 806, 1799, 1043, 954, 878
+Cliente: 515 ha acquistato un biglietto in posizione: 1044
+Cliente: 330 ha acquistato un biglietto in posizione: 63
+Cliente: 561 ha acquistato un biglietto in posizione: 1993, 665
+Cliente: 140 ha acquistato un biglietto in posizione: 1171, 1225, 849
+Cliente: 700 ha acquistato un biglietto in posizione: 392
+Cliente: 402 ha acquistato un biglietto in posizione: 711
+Cliente: 582 ha acquistato un biglietto in posizione: 1920, 17, 1351, 746, 340
+Cliente: 565 ha acquistato un biglietto in posizione: 517, 481, 1241, 1888
+Cliente: 611 ha acquistato un biglietto in posizione: 256, 663, 578, 662
+Cliente: 114 ha acquistato un biglietto in posizione: 107, 1692, 803
+Cliente: 285 ha acquistato un biglietto in posizione: 619, 1349, 58, 1502
+Cliente: 455 ha acquistato un biglietto in posizione: 236, 464, 120
+Cliente: 335 ha acquistato un biglietto in posizione: 485, 257, 1574, 318
+Cliente: 225 ha acquistato un biglietto in posizione: 1092, 715, 1330, 128, 306
+Cliente: 158 ha acquistato un biglietto in posizione: 1057, 1455
+Cliente: 404 ha acquistato un biglietto in posizione: 1525, 1501, 808, 1532
+Cliente: 694 ha acquistato un biglietto in posizione: 961, 1328
+Cliente: 127 ha acquistato un biglietto in posizione: 1384, 1744, 1192, 597
+Cliente: 489 ha acquistato un biglietto in posizione: 964
+Cliente: 125 ha acquistato un biglietto in posizione: 1292, 1153
+Cliente: 255 ha acquistato un biglietto in posizione: 246, 1554
+Cliente: 134 ha acquistato un biglietto in posizione: 915, 899
+Cliente: 201 ha acquistato un biglietto in posizione: 10, 100
+Cliente: 243 ha acquistato un biglietto in posizione: 1152, 476, 968
+Cliente: 308 ha acquistato un biglietto in posizione: 882
+Cliente: 344 ha acquistato un biglietto in posizione: 759, 1386
+Cliente: 245 ha acquistato un biglietto in posizione: 1053
+Cliente: 149 ha acquistato un biglietto in posizione: 529, 1764, 1758, 470
+Cliente: 527 ha acquistato un biglietto in posizione: 544, 1924
+Cliente: 522 ha acquistato un biglietto in posizione: 813, 298, 894
+Cliente: 231 ha acquistato un biglietto in posizione: 1708, 53, 509, 334
+Cliente: 549 ha acquistato un biglietto in posizione: 1430
+Cliente: 42 ha acquistato un biglietto in posizione: 757
+Cliente: 211 ha acquistato un biglietto in posizione: 1965, 976, 1845
+Cliente: 541 ha acquistato un biglietto in posizione: 860, 923, 633
+Cliente: 347 ha acquistato un biglietto in posizione: 1726
+Cliente: 322 ha acquistato un biglietto in posizione: 1247, 1406
+Cliente: 25 ha acquistato un biglietto in posizione: 1316, 983, 928, 853
+Cliente: 261 ha acquistato un biglietto in posizione: 289, 1838, 1806, 1212
+Cliente: 78 ha acquistato un biglietto in posizione: 945
+Cliente: 647 ha acquistato un biglietto in posizione: 428, 1751
+Cliente: 569 ha acquistato un biglietto in posizione: 1261
+Cliente: 22 ha acquistato un biglietto in posizione: 1842
+Cliente: 649 ha acquistato un biglietto in posizione: 1382, 141, 375
+Cliente: 491 ha acquistato un biglietto in posizione: 1691
+Cliente: 631 ha acquistato un biglietto in posizione: 454, 940, 232, 930
+Cliente: 603 ha acquistato un biglietto in posizione: 749, 296
+Cliente: 81 ha acquistato un biglietto in posizione: 1228, 191
+Cliente: 128 ha acquistato un biglietto in posizione: 30, 1375
+Cliente: 50 ha acquistato un biglietto in posizione: 547, 413, 1937
+Cliente: 19 ha acquistato un biglietto in posizione: 1509, 1629, 1663, 292
+Cliente: 196 ha acquistato un biglietto in posizione: 242
+Cliente: 233 ha acquistato un biglietto in posizione: 751, 1968
+Cliente: 698 ha acquistato un biglietto in posizione: 903, 801, 1685
+Cliente: 478 ha acquistato un biglietto in posizione: 747, 1327, 1280
+Cliente: 380 ha acquistato un biglietto in posizione: 1686, 1852, 775
+Cliente: 57 ha acquistato un biglietto in posizione: 1533, 918, 335
+
+
+Fine vendita biglietti: 31/03/2022 11:32:34
+
+Cliente: 428 ha acquistato un biglietto in posizione: 1862, 23, 1708, 1340, 291
+Cliente: 240 ha acquistato un biglietto in posizione: 128, 239, 1903
+Cliente: 506 ha acquistato un biglietto in posizione: 9
+Cliente: 307 ha acquistato un biglietto in posizione: 927
+Cliente: 184 ha acquistato un biglietto in posizione: 1530, 622, 1380
+Cliente: 386 ha acquistato un biglietto in posizione: 153, 1062, 1861
+Cliente: 680 ha acquistato un biglietto in posizione: 776, 1536
+Cliente: 692 ha acquistato un biglietto in posizione: 176, 385, 1892
+Cliente: 523 ha acquistato un biglietto in posizione: 721
+Cliente: 475 ha acquistato un biglietto in posizione: 435, 656, 1769
+Cliente: 698 ha acquistato un biglietto in posizione: 1834, 738, 1685
+Cliente: 533 ha acquistato un biglietto in posizione: 925, 1915
+Cliente: 591 ha acquistato un biglietto in posizione: 645
+Cliente: 35 ha acquistato un biglietto in posizione: 1356
+Cliente: 273 ha acquistato un biglietto in posizione: 1529, 1048, 320
+Cliente: 688 ha acquistato un biglietto in posizione: 1722, 1940
+Cliente: 7 ha acquistato un biglietto in posizione: 230
+Cliente: 260 ha acquistato un biglietto in posizione: 1592, 1398, 188
+Cliente: 142 ha acquistato un biglietto in posizione: 857, 1713, 280, 1063
+Cliente: 77 ha acquistato un biglietto in posizione: 959
+Cliente: 205 ha acquistato un biglietto in posizione: 178, 1996, 773
+Cliente: 431 ha acquistato un biglietto in posizione: 1418, 1881, 1419
+Cliente: 412 ha acquistato un biglietto in posizione: 1307, 529
+Cliente: 577 ha acquistato un biglietto in posizione: 1662
+Cliente: 614 ha acquistato un biglietto in posizione: 1164, 1673, 1214, 1609
+Cliente: 271 ha acquistato un biglietto in posizione: 992
+Cliente: 165 ha acquistato un biglietto in posizione: 912, 1765
+Cliente: 452 ha acquistato un biglietto in posizione: 1819, 572, 1161, 281, 1219
+Cliente: 139 ha acquistato un biglietto in posizione: 421
+Cliente: 62 ha acquistato un biglietto in posizione: 836, 1196
+Cliente: 671 ha acquistato un biglietto in posizione: 1026, 1986, 1322
+Cliente: 418 ha acquistato un biglietto in posizione: 1254, 1335, 527, 1430
+Cliente: 486 ha acquistato un biglietto in posizione: 972
+Cliente: 518 ha acquistato un biglietto in posizione: 1600
+Cliente: 478 ha acquistato un biglietto in posizione: 1014, 1367, 1603, 847
+Cliente: 390 ha acquistato un biglietto in posizione: 1345, 1009, 1804, 1899
+Cliente: 645 ha acquistato un biglietto in posizione: 1490, 1759, 1630, 1172
+Cliente: 206 ha acquistato un biglietto in posizione: 1904, 64
+Cliente: 368 ha acquistato un biglietto in posizione: 1882, 762
+Cliente: 598 ha acquistato un biglietto in posizione: 1210
+Cliente: 30 ha acquistato un biglietto in posizione: 1684
+Cliente: 38 ha acquistato un biglietto in posizione: 1207
+Cliente: 561 ha acquistato un biglietto in posizione: 687, 771, 1229, 358
+Cliente: 170 ha acquistato un biglietto in posizione: 768, 1346, 792, 665, 1858
+Cliente: 407 ha acquistato un biglietto in posizione: 799
+Cliente: 52 ha acquistato un biglietto in posizione: 82, 1249
+Cliente: 660 ha acquistato un biglietto in posizione: 1002, 1050
+Cliente: 320 ha acquistato un biglietto in posizione: 540, 1816
+Cliente: 315 ha acquistato un biglietto in posizione: 997, 1008
+Cliente: 192 ha acquistato un biglietto in posizione: 1223, 1230, 782, 1733
+Cliente: 670 ha acquistato un biglietto in posizione: 314
+Cliente: 537 ha acquistato un biglietto in posizione: 1165, 404
+Cliente: 497 ha acquistato un biglietto in posizione: 780, 1222
+Cliente: 50 ha acquistato un biglietto in posizione: 1412
+Cliente: 212 ha acquistato un biglietto in posizione: 872, 984
+Cliente: 649 ha acquistato un biglietto in posizione: 589, 1563
+Cliente: 4 ha acquistato un biglietto in posizione: 1122
+Cliente: 419 ha acquistato un biglietto in posizione: 1188
+Cliente: 563 ha acquistato un biglietto in posizione: 182, 1675
+Cliente: 246 ha acquistato un biglietto in posizione: 1781, 594
+Cliente: 248 ha acquistato un biglietto in posizione: 1789, 1657
+Cliente: 691 ha acquistato un biglietto in posizione: 1169
+Cliente: 528 ha acquistato un biglietto in posizione: 1408, 1596
+Cliente: 343 ha acquistato un biglietto in posizione: 631, 1701
+Cliente: 608 ha acquistato un biglietto in posizione: 1632, 1731, 274
+Cliente: 20 ha acquistato un biglietto in posizione: 1123, 403
+Cliente: 214 ha acquistato un biglietto in posizione: 1242, 941
+Cliente: 494 ha acquistato un biglietto in posizione: 284, 566, 1969, 517
+Cliente: 603 ha acquistato un biglietto in posizione: 1788
+Cliente: 342 ha acquistato un biglietto in posizione: 148
+Cliente: 425 ha acquistato un biglietto in posizione: 744, 75
+Cliente: 508 ha acquistato un biglietto in posizione: 1625, 1932
+Cliente: 684 ha acquistato un biglietto in posizione: 1680
+Cliente: 293 ha acquistato un biglietto in posizione: 26, 240, 1449
+Cliente: 223 ha acquistato un biglietto in posizione: 1953, 1097, 752, 1016
+Cliente: 42 ha acquistato un biglietto in posizione: 19, 91, 42, 427
+Cliente: 217 ha acquistato un biglietto in posizione: 942, 1379, 1601
+Cliente: 291 ha acquistato un biglietto in posizione: 1129, 1282
+Cliente: 133 ha acquistato un biglietto in posizione: 1683, 621, 611
+Cliente: 356 ha acquistato un biglietto in posizione: 1872, 1738
+Cliente: 359 ha acquistato un biglietto in posizione: 649, 171
+Cliente: 128 ha acquistato un biglietto in posizione: 1191, 989
+Cliente: 3 ha acquistato un biglietto in posizione: 749
+Cliente: 532 ha acquistato un biglietto in posizione: 222
+Cliente: 545 ha acquistato un biglietto in posizione: 1726, 1774
+Cliente: 294 ha acquistato un biglietto in posizione: 1465, 1396, 1292
+Cliente: 328 ha acquistato un biglietto in posizione: 930, 778
+Cliente: 652 ha acquistato un biglietto in posizione: 218, 1243, 1880, 1185
+Cliente: 644 ha acquistato un biglietto in posizione: 229, 1914
+Cliente: 111 ha acquistato un biglietto in posizione: 1553, 119, 528, 954
+Cliente: 330 ha acquistato un biglietto in posizione: 1501, 647
+Cliente: 473 ha acquistato un biglietto in posizione: 653, 1483
+Cliente: 456 ha acquistato un biglietto in posizione: 580, 737
+Cliente: 519 ha acquistato un biglietto in posizione: 1113, 1386, 866
+Cliente: 150 ha acquistato un biglietto in posizione: 880
+Cliente: 380 ha acquistato un biglietto in posizione: 363, 1993, 1743
+Cliente: 365 ha acquistato un biglietto in posizione: 1043, 1610
+Cliente: 612 ha acquistato un biglietto in posizione: 1850, 1646, 1163
+Cliente: 658 ha acquistato un biglietto in posizione: 220
+Cliente: 600 ha acquistato un biglietto in posizione: 1120, 317, 897
+Cliente: 408 ha acquistato un biglietto in posizione: 1471, 1374, 466
+Cliente: 385 ha acquistato un biglietto in posizione: 1051, 953
+Cliente: 609 ha acquistato un biglietto in posizione: 1364
+Cliente: 173 ha acquistato un biglietto in posizione: 1180, 1663
+Cliente: 51 ha acquistato un biglietto in posizione: 1965, 1124
+Cliente: 544 ha acquistato un biglietto in posizione: 242, 1634, 504
+Cliente: 25 ha acquistato un biglietto in posizione: 1580, 783, 1961
+Cliente: 397 ha acquistato un biglietto in posizione: 32, 1177, 1849
+Cliente: 245 ha acquistato un biglietto in posizione: 97, 1034
+Cliente: 663 ha acquistato un biglietto in posizione: 120, 238, 1337
+Cliente: 57 ha acquistato un biglietto in posizione: 1146
+Cliente: 655 ha acquistato un biglietto in posizione: 1204, 122, 111, 1234
+Cliente: 63 ha acquistato un biglietto in posizione: 658, 1547, 170, 1666
+Cliente: 566 ha acquistato un biglietto in posizione: 1851, 1936, 459
+Cliente: 224 ha acquistato un biglietto in posizione: 1443, 1319, 520
+Cliente: 331 ha acquistato un biglietto in posizione: 100, 546
+Cliente: 310 ha acquistato un biglietto in posizione: 1239, 1648
+Cliente: 499 ha acquistato un biglietto in posizione: 1460
+Cliente: 222 ha acquistato un biglietto in posizione: 874, 1614, 297, 1088
+Cliente: 191 ha acquistato un biglietto in posizione: 1023
+Cliente: 672 ha acquistato un biglietto in posizione: 473, 1913
+Cliente: 43 ha acquistato un biglietto in posizione: 1877, 1725
+Cliente: 534 ha acquistato un biglietto in posizione: 498, 321
+Cliente: 193 ha acquistato un biglietto in posizione: 1432
+Cliente: 455 ha acquistato un biglietto in posizione: 46
+Cliente: 392 ha acquistato un biglietto in posizione: 1570, 1202, 1653
+Cliente: 295 ha acquistato un biglietto in posizione: 1006, 221, 1001, 628, 76
+Cliente: 632 ha acquistato un biglietto in posizione: 1140, 1075, 609
+Cliente: 492 ha acquistato un biglietto in posizione: 1697
+Cliente: 272 ha acquistato un biglietto in posizione: 68, 1954, 1158
+Cliente: 22 ha acquistato un biglietto in posizione: 191, 878, 735, 116
+Cliente: 333 ha acquistato un biglietto in posizione: 1314, 366, 186
+Cliente: 213 ha acquistato un biglietto in posizione: 92, 346, 22
+Cliente: 59 ha acquistato un biglietto in posizione: 1827, 1514, 1716, 1300, 266
+Cliente: 642 ha acquistato un biglietto in posizione: 1846
+Cliente: 141 ha acquistato un biglietto in posizione: 1941, 571
+Cliente: 287 ha acquistato un biglietto in posizione: 819
+Cliente: 11 ha acquistato un biglietto in posizione: 1274, 1424
+Cliente: 586 ha acquistato un biglietto in posizione: 1755, 1487, 500
+Cliente: 530 ha acquistato un biglietto in posizione: 177, 801
+Cliente: 439 ha acquistato un biglietto in posizione: 1957, 668, 1886, 922
+Cliente: 124 ha acquistato un biglietto in posizione: 1003, 338
+Cliente: 93 ha acquistato un biglietto in posizione: 909, 255, 795
+Cliente: 664 ha acquistato un biglietto in posizione: 406
+Cliente: 292 ha acquistato un biglietto in posizione: 1091, 487, 1559
+Cliente: 182 ha acquistato un biglietto in posizione: 73, 1203, 763
+Cliente: 572 ha acquistato un biglietto in posizione: 1013, 1056, 511, 1583
+Cliente: 200 ha acquistato un biglietto in posizione: 414
+Cliente: 65 ha acquistato un biglietto in posizione: 681, 1462
+Cliente: 555 ha acquistato un biglietto in posizione: 160
+Cliente: 239 ha acquistato un biglietto in posizione: 740, 1247
+Cliente: 466 ha acquistato un biglietto in posizione: 1676, 1703
+Cliente: 470 ha acquistato un biglietto in posizione: 1896, 40, 1103, 187
+Cliente: 115 ha acquistato un biglietto in posizione: 1060
+Cliente: 335 ha acquistato un biglietto in posizione: 503, 1224, 1918
+Cliente: 175 ha acquistato un biglietto in posizione: 1456
+Cliente: 37 ha acquistato un biglietto in posizione: 606
+Cliente: 67 ha acquistato un biglietto in posizione: 625, 392, 1785, 586
+
+
+Fine vendita biglietti: 31/03/2022 11:33:48
+
+Cliente: 1288 ha acquistato un biglietto in posizione: 824, 799, 831
+Cliente: 432 ha acquistato un biglietto in posizione: 931, 927
+Cliente: 1402 ha acquistato un biglietto in posizione: 163, 677
+Cliente: 815 ha acquistato un biglietto in posizione: 629, 286, 4
+Cliente: 1191 ha acquistato un biglietto in posizione: 361, 448, 429
+Cliente: 1091 ha acquistato un biglietto in posizione: 101, 36, 733
+Cliente: 431 ha acquistato un biglietto in posizione: 559, 250, 628
+Cliente: 466 ha acquistato un biglietto in posizione: 385
+Cliente: 1979 ha acquistato un biglietto in posizione: 263, 737
+Cliente: 1000 ha acquistato un biglietto in posizione: 539, 555, 312, 262
+Cliente: 949 ha acquistato un biglietto in posizione: 197, 238
+Cliente: 340 ha acquistato un biglietto in posizione: 237
+Cliente: 1729 ha acquistato un biglietto in posizione: 276, 66, 862
+Cliente: 1348 ha acquistato un biglietto in posizione: 254, 350, 440, 651, 327
+Cliente: 737 ha acquistato un biglietto in posizione: 436, 781, 366
+Cliente: 803 ha acquistato un biglietto in posizione: 962, 833, 174, 730
+Cliente: 1125 ha acquistato un biglietto in posizione: 934
+Cliente: 972 ha acquistato un biglietto in posizione: 563, 368, 708, 926
+Cliente: 860 ha acquistato un biglietto in posizione: 287
+Cliente: 780 ha acquistato un biglietto in posizione: 760
+Cliente: 1798 ha acquistato un biglietto in posizione: 252, 97
+Cliente: 522 ha acquistato un biglietto in posizione: 446, 467, 537, 152
+Cliente: 1570 ha acquistato un biglietto in posizione: 761, 665
+Cliente: 1969 ha acquistato un biglietto in posizione: 847
+Cliente: 1479 ha acquistato un biglietto in posizione: 405, 765
+Cliente: 1127 ha acquistato un biglietto in posizione: 891, 965, 158, 805
+Cliente: 1274 ha acquistato un biglietto in posizione: 545, 332, 598, 692
+Cliente: 138 ha acquistato un biglietto in posizione: 288, 615, 397, 878
+Cliente: 274 ha acquistato un biglietto in posizione: 30
+Cliente: 1284 ha acquistato un biglietto in posizione: 714
+Cliente: 508 ha acquistato un biglietto in posizione: 457, 43, 667, 480
+Cliente: 616 ha acquistato un biglietto in posizione: 383, 210
+Cliente: 228 ha acquistato un biglietto in posizione: 170, 521, 591
+Cliente: 1493 ha acquistato un biglietto in posizione: 720, 408, 793
+Cliente: 1898 ha acquistato un biglietto in posizione: 364
+Cliente: 591 ha acquistato un biglietto in posizione: 489, 928
+Cliente: 597 ha acquistato un biglietto in posizione: 93, 578
+Cliente: 1083 ha acquistato un biglietto in posizione: 617
+Cliente: 406 ha acquistato un biglietto in posizione: 734, 688, 520, 501
+Cliente: 205 ha acquistato un biglietto in posizione: 622, 682, 662
+Cliente: 559 ha acquistato un biglietto in posizione: 511, 136
+Cliente: 1738 ha acquistato un biglietto in posizione: 676, 227, 86
+Cliente: 703 ha acquistato un biglietto in posizione: 12, 638
+Cliente: 583 ha acquistato un biglietto in posizione: 195, 874, 139
+Cliente: 661 ha acquistato un biglietto in posizione: 396, 83, 593, 246
+Cliente: 1089 ha acquistato un biglietto in posizione: 102, 249, 786, 60
+Cliente: 980 ha acquistato un biglietto in posizione: 499
+Cliente: 913 ha acquistato un biglietto in posizione: 964, 16
+Cliente: 1500 ha acquistato un biglietto in posizione: 726, 961, 865, 81
+Cliente: 629 ha acquistato un biglietto in posizione: 70, 857, 274
+Cliente: 979 ha acquistato un biglietto in posizione: 94
+Cliente: 1186 ha acquistato un biglietto in posizione: 363, 509, 997, 772, 117
+Cliente: 714 ha acquistato un biglietto in posizione: 952, 953
+Cliente: 497 ha acquistato un biglietto in posizione: 727, 147, 137
+Cliente: 517 ha acquistato un biglietto in posizione: 188, 407
+Cliente: 1740 ha acquistato un biglietto in posizione: 898, 698, 486
+Cliente: 1449 ha acquistato un biglietto in posizione: 707, 758
+Cliente: 1672 ha acquistato un biglietto in posizione: 107, 783, 271, 529, 474
+Cliente: 788 ha acquistato un biglietto in posizione: 425, 233
+Cliente: 1994 ha acquistato un biglietto in posizione: 785
+Cliente: 147 ha acquistato un biglietto in posizione: 584, 941, 50
+Cliente: 1019 ha acquistato un biglietto in posizione: 118, 925, 585
+Cliente: 155 ha acquistato un biglietto in posizione: 242, 995
+Cliente: 1745 ha acquistato un biglietto in posizione: 488
+Cliente: 959 ha acquistato un biglietto in posizione: 612, 40, 541, 347
+Cliente: 753 ha acquistato un biglietto in posizione: 362, 623
+Cliente: 1128 ha acquistato un biglietto in posizione: 876
+Cliente: 1457 ha acquistato un biglietto in posizione: 513, 38, 377
+Cliente: 818 ha acquistato un biglietto in posizione: 822, 477
+Cliente: 1300 ha acquistato un biglietto in posizione: 212, 115
+Cliente: 1622 ha acquistato un biglietto in posizione: 73, 852
+Cliente: 549 ha acquistato un biglietto in posizione: 531, 89
+Cliente: 416 ha acquistato un biglietto in posizione: 565, 659
+Cliente: 1690 ha acquistato un biglietto in posizione: 192, 954, 267
+Cliente: 265 ha acquistato un biglietto in posizione: 896, 160
+Cliente: 1024 ha acquistato un biglietto in posizione: 796
+Cliente: 31 ha acquistato un biglietto in posizione: 728, 444, 868, 517
+Cliente: 989 ha acquistato un biglietto in posizione: 687, 519
+Cliente: 1159 ha acquistato un biglietto in posizione: 940, 221
+Cliente: 1423 ha acquistato un biglietto in posizione: 558
+Cliente: 345 ha acquistato un biglietto in posizione: 697, 35, 205, 130, 68
+Cliente: 694 ha acquistato un biglietto in posizione: 880, 731, 936
+Cliente: 1666 ha acquistato un biglietto in posizione: 171, 705, 937
+Cliente: 10 ha acquistato un biglietto in posizione: 803
+Cliente: 873 ha acquistato un biglietto in posizione: 648
+Cliente: 71 ha acquistato un biglietto in posizione: 255
+Cliente: 1266 ha acquistato un biglietto in posizione: 372
+Cliente: 1953 ha acquistato un biglietto in posizione: 41
+Cliente: 107 ha acquistato un biglietto in posizione: 183, 993
+Cliente: 1562 ha acquistato un biglietto in posizione: 346, 185, 398, 724
+Cliente: 1264 ha acquistato un biglietto in posizione: 479, 149, 270
+Cliente: 50 ha acquistato un biglietto in posizione: 376, 472, 906, 992
+Cliente: 1528 ha acquistato un biglietto in posizione: 534, 269, 337, 190
+Cliente: 207 ha acquistato un biglietto in posizione: 877
+Cliente: 506 ha acquistato un biglietto in posizione: 131
+Cliente: 260 ha acquistato un biglietto in posizione: 460
+Cliente: 1033 ha acquistato un biglietto in posizione: 791
+Cliente: 1361 ha acquistato un biglietto in posizione: 180
+Cliente: 66 ha acquistato un biglietto in posizione: 459, 850
+Cliente: 1926 ha acquistato un biglietto in posizione: 973, 87, 804, 801
+Cliente: 975 ha acquistato un biglietto in posizione: 23, 866, 393
+Cliente: 1955 ha acquistato un biglietto in posizione: 776, 232, 512
+Cliente: 120 ha acquistato un biglietto in posizione: 229, 47, 701, 487
+Cliente: 1324 ha acquistato un biglietto in posizione: 475, 755, 610, 388
+
+
+Fine vendita biglietti: 31/03/2022 11:35:43
+
+Cliente: 596 ha acquistato un biglietto in posizione: 507
+Cliente: 124 ha acquistato un biglietto in posizione: 796, 837
+Cliente: 633 ha acquistato un biglietto in posizione: 946, 79, 669
+
