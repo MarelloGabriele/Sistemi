@@ -1,0 +1,9 @@
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\bin\Debug\02_SocketTCP_Server.exe.config
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\bin\Debug\02_SocketTCP_Server.exe
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\bin\Debug\02_SocketTCP_Server.pdb
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\02_SocketTCP_Server.csprojAssemblyReference.cache
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\_02_SocketTCP_Server.Form1.resources
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\_02_SocketTCP_Server.Properties.Resources.resources
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\02_SocketTCP_Server.csproj.GenerateResource.cache
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\02_SocketTCP_Server.exe
+C:\Users\g.marello.1757\Desktop\02_SocketTCP_Server\obj\Debug\02_SocketTCP_Server.pdb
