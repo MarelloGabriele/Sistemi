@@ -24,6 +24,9 @@ namespace _02_SocketTCP_Server
         private Thread threadAscolto;
         private volatile bool threadRun = true;
         private Socket connID;
+
+        
+
         // Definiamo puntatori agli eventi
         public event datiRicevutiHandler datiRicevutiEvent;
         public event erroreConnessioneEventHandler erroreConnessioneEvent;
@@ -68,7 +71,26 @@ namespace _02_SocketTCP_Server
                         connID = socketID.Accept();
                         statoConnessioneEvent("Connesso");
                     }
-
+                    esci = false;
+                    msg = null;
+                    while (!esci && connID.Connected)
+                    {
+                        bufferRx = new byte[MAX_BYTE];
+                        msg += Encoding.UTF8.GetString(bufferRx,0, nBytesRicevuti);
+                        if ((msg.IndexOf("<EQF>") > -1) || (nBytesRicevuti == 0))
+                        {
+                            esci = true;
+                        }
+                    }
+                    if (nBytesRicevuti > 0)
+                    {
+                        msg = msg.Substring(0, msg.Length - 5);
+                        datiRicevutiEvent(messaggio(msg));
+                    }
+                    else
+                    {
+                        chiudiConnessione();
+                    }
 
                 }
                 catch (SocketException ex)
@@ -78,6 +100,16 @@ namespace _02_SocketTCP_Server
                 }
             }
         }
+
+        private clsMessage messaggio(string msg)
+        {
+            clsMessage clsMsg = new clsMessage();
+            clsMsg.Ip = ((IPEndPoint)connID.RemoteEndPoint).Address.ToString();
+            clsMsg.Port = ((IPEndPoint)connID.RemoteEndPoint).Port.ToString();
+            clsMsg.Messaggio = msg;
+            return clsMsg;
+        }
+
         public void invia(string msg)
         {
             try
