@@ -1,0 +1,9 @@
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojAssemblyReference.cache
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Form1.resources
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb
