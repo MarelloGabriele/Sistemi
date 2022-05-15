@@ -31,12 +31,12 @@ namespace Chat_Client
             dgv.FirstDisplayedScrollingRowIndex = dgv.Rows.Count - 1;
             dgv.Columns[0].Width = dgv.Width;
 
-            dgv.RowsDefaultCellStyle.BackColor = Color.LightGray;
+            /*dgv.RowsDefaultCellStyle.BackColor = Color.LightGray;
             dgv.RowsDefaultCellStyle.ForeColor = Color.Black;
             //aspetto righe dispari 
             dgv.AlternatingRowsDefaultCellStyle.BackColor = Color.DarkGray;
             dgv.AlternatingRowsDefaultCellStyle.ForeColor = Color.Black;
-
+            */
         }
         public static void setDgvUtenti(DataGridView dgv)
         {

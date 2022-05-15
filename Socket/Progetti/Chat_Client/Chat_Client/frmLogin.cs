@@ -12,13 +12,12 @@ namespace Chat_Client
 {
     public partial class frmLogin : Form
     {
-        bool loginValue = false;
-        frmChat frm;
+        bool loginValue = false; //true -> se ricevo l'ACK del server
+        frmChat frm; //istanza form main
         public frmLogin(frmChat frm)
         {
             InitializeComponent();
             this.frm = frm; 
-            
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
@@ -28,36 +27,38 @@ namespace Chat_Client
 
         private void frmLogin_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (!loginValue)
+            if (!loginValue) //se voglio uscire senza aver ricevuto risposta
             {
-                if (MessageBox.Show("Sei sicuro di uscire?", "Uscire?", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                if (MessageBox.Show("Sei sicuro di uscire?", "Uscire?", MessageBoxButtons.YesNo) == DialogResult.Yes) //se sono sicuro di uscire
                 {
-                    frm.Close();
+                    frm.Close(); //killo il processo main e chiude tutto
                 }
                 else
                 {
-                    e.Cancel = true;
+                    e.Cancel = true; //altrimenti ritorno a prima
                 }
             }
-            else
+            else //se ho ricevuto l'ACK
             {
-                frm.Enabled = true;
+                //apro il frm chat
+                frm.Enabled = true; 
                 frm.WindowState = FormWindowState.Normal;
             }
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            sendNickname();
+            sendNickname(); //funzione che va ad inviare il nickname scritto
         }
         public void sendNickname()
         {
-            string nickname = txtUsername.Text;
-            System.Threading.Thread.Sleep(1000);
-            
+            string nickname = txtUsername.Text; //prendo il nickname scritto
+            System.Threading.Thread.Sleep(5001); //attendo 5.001 sec (per accertarmi che io sia collegato al server
 
+            //invio
 
-            this.Close();
+            loginValue = true; //imposto login value a true
+            this.Close(); //chiudo il tutto
         }
     }
 }
