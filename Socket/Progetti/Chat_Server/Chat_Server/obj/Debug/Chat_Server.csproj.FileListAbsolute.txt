@@ -7,3 +7,14 @@ C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Cha
 C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
 C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
 C:\Users\g.marello.1757\Downloads\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Form1.resources
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\marel\Desktop\Sistemi-main\Socket\Progetti\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb

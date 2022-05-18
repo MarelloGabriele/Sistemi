@@ -1,0 +1,16 @@
+paolo;luca;ciao;17.36.15
+marco;emanuele;stronzo;17.36.15
+paolo;luca;ciao;17.36.34
+marco;emanuele;stronzo;17.36.34
+paolo;luca;ciao;17.38.5
+marco;emanuele;stronzo;17.38.5
+paolo;luca;ciao;17.54.40
+marco;emanuele;stronzo;17.54.40
+paolo;luca;ciao;17.55.30
+marco;emanuele;stronzo;17.55.30
+paolo;luca;ciao;17.58.53
+marco;emanuele;stronzo;17.58.53
+paolo;luca;ciao;17.59.5
+marco;emanuele;stronzo;17.59.5
+paolo;luca;ciao;17.59.12
+marco;emanuele;stronzo;17.59.12

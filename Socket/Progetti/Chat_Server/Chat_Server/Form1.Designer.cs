@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -39,10 +40,10 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.lblMsgInviati = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.lblRegistrati = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.lblClient = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -87,7 +88,7 @@
             this.txtPort.ReadOnly = true;
             this.txtPort.Size = new System.Drawing.Size(120, 20);
             this.txtPort.TabIndex = 3;
-            this.txtPort.Text = "4444";
+            this.txtPort.Text = "27272";
             this.txtPort.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cmbIP
@@ -125,13 +126,12 @@
             this.btnLog.TabIndex = 1;
             this.btnLog.Text = "VISUALIZZA LOG";
             this.btnLog.UseVisualStyleBackColor = true;
+            this.btnLog.Click += new System.EventHandler(this.btnLog_Click);
             // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.lblMsgInviati);
             this.groupBox2.Controls.Add(this.label8);
-            this.groupBox2.Controls.Add(this.lblRegistrati);
-            this.groupBox2.Controls.Add(this.label6);
             this.groupBox2.Controls.Add(this.lblClient);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.btnLog);
@@ -145,7 +145,7 @@
             // lblMsgInviati
             // 
             this.lblMsgInviati.AutoSize = true;
-            this.lblMsgInviati.Location = new System.Drawing.Point(91, 100);
+            this.lblMsgInviati.Location = new System.Drawing.Point(91, 80);
             this.lblMsgInviati.Name = "lblMsgInviati";
             this.lblMsgInviati.Size = new System.Drawing.Size(13, 13);
             this.lblMsgInviati.TabIndex = 7;
@@ -154,29 +154,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(3, 100);
+            this.label8.Location = new System.Drawing.Point(3, 80);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(85, 13);
             this.label8.TabIndex = 6;
             this.label8.Text = "Messaggi inviati:";
-            // 
-            // lblRegistrati
-            // 
-            this.lblRegistrati.AutoSize = true;
-            this.lblRegistrati.Location = new System.Drawing.Point(91, 79);
-            this.lblRegistrati.Name = "lblRegistrati";
-            this.lblRegistrati.Size = new System.Drawing.Size(13, 13);
-            this.lblRegistrati.TabIndex = 5;
-            this.lblRegistrati.Text = "0";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(3, 79);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(70, 13);
-            this.label6.TabIndex = 4;
-            this.label6.Text = "Registrazioni:";
             // 
             // lblClient
             // 
@@ -205,6 +187,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -227,10 +210,10 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label lblMsgInviati;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label lblRegistrati;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblClient;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
     }
 }
 
